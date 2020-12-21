@@ -85,3 +85,36 @@ html{
     font-size:2vw;
     color:white
 }
+.setgame div{
+    color: white;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: red;
+    font-size: 6vw;
+}
+
+.setgame div:hover{
+    background-color: #3E468E;
+    color: black;
+}
+
+.score{
+    font-size: 2vw;
+    color: white;
+
+}
+
+.victoire{
+    font-size: 6vw;
+    color: red;
+}
+
+.victoire button{
+    font-size: 5vw;
+    border-radius: 20px;
+}
+
+.turn{
+    font-size:2vw;
+    color:white
+}
